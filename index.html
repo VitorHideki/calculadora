@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Calculadora</title>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Pacifico|Roboto:100,300,400,500,700,900" rel="stylesheet"/>
+    <link href="style.css" rel="stylesheet"/>
+    <link href="./src/componentes/Button.css" rel="stylesheet"/>
+    <link href="./src/componentes/Display.css" rel="stylesheet"/>
+    <link href="./src/main/Calculadora.css" rel="stylesheet"/>
+    <script type="module" src="./src/Calculadora.js"></script>
+</head>
+<script>function printaHistorico() {
+    for (i = 0; i < history.length; i++) {
+        historico[i].addEventListener('click', function () {
+            alert("teste");
+
+        })
+    }
+}
+
+printaHistorico(document.getElementById("h"));
+printaHistorico()</script>
+<body>
+<div id="container"><br>
+    <div id="calculatora"><p id="marca">Calculadora</p>
+        <div id="historico">
+            <p id="valor-historico"></p>
+        </div>
+        <div id="resultado">
+            <p id="valor-resultado"></p>
+        </div>
+    </div>
+    <div id="teclado">
+        <button class="operacao" id="limpar">C</button>
+        <button class="operacao" id="h">H</button>
+        <button class="operacao" id="%">%</button>
+        <button class="operacao" id="/">/</button>
+        <button class="digito" id="7">7</button>
+        <button class="digito" id="8">8</button>
+        <button class="digito" id="9">9</button>
+        <button class="operacao" id="*">*</button>
+        <button class="digito" id="4">4</button>
+        <button class="digito" id="5">5</button>
+        <button class="digito" id="6">6</button>
+        <button class="operacao" id="-">-</button>
+        <button class="digito" id="1">1</button>
+        <button class="digito" id="2">2</button>
+        <button class="digito" id="3">3</button>
+        <button class="operacao" id="+">+</button>
+        <button class="vazio" id="vazio"></button>
+        <button class="digito" id="0">0</button>
+        <button class="vazio" id="vazio"></button>
+        <button class="operacao" id="=">=</button>
+    </div>
+</div>
+</body>
+</html>

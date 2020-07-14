@@ -1,0 +1,26 @@
+
+#container {
+    position: relative;
+    margin: 100 auto;
+    width: 320px;
+    height: 520 auto;
+    top: 20px;
+    border-radius: 5px;
+background: linear-gradient(to right, rgb(189, 195, 199), rgb(44, 62, 80));
+}
+
+#calculadora{
+    width: 320px;
+    height: 520px;
+    background-color: #eaedef;
+    margin: 0 auto;
+    top: 20px;
+    border-radius: 5px;
+
+}
+#marca{
+    color: white;
+    margin: 0;
+    margin-bottom: 20px;
+}
+

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3580f386-735f-4cbe-b60c-685155c57ada" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bgoUjrCOSS8SdbV3aztwSQfv1e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../5.2 - Fazer" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vitor Hideki\Documents\Faculdade\EngenhariaWeb\Calculadora\.idea\src" />
+      <recent name="C:\Users\Vitor Hideki\Documents\Faculdade\EngenhariaWeb\Calculadora\.idea" />
+      <recent name="C:\Users\Vitor Hideki\Documents\Faculdade\EngenhariaWeb\Calculadora\.idea\src\font" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3580f386-735f-4cbe-b60c-685155c57ada" name="Default Changelist" comment="" />
+      <created>1589063114287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589063114287</updated>
+      <workItem from="1589063119074" duration="44005000" />
+      <workItem from="1589238418520" duration="391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="128" key="FileChooserDialogImpl" timestamp="1589063706516">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="121" y="128" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1589063706516" />
+    <state x="758" y="178" width="560" height="410" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589216044674">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="758" y="178" width="560" height="410" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1589216044674" />
+    <state x="92" y="92" width="1182" height="554" maximized="true" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1589206922602">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" maximized="true" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1589206922602" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1589238424079">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1589238424079" />
+    <state x="666" y="133" width="484" height="720" key="dock-window-1" timestamp="1589064744352">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="666" y="133" width="484" height="720" key="dock-window-1/0.0.1366.738@0.0.1366.738" timestamp="1589064744352" />
+    <state x="0" y="98" key="new project wizard" timestamp="1589063677670">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="98" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1589063677670" />
+    <state x="-15" y="167" key="run.anything.popup" timestamp="1589116755144">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="-15" y="167" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1589116755144" />
+    <state x="687" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1589214843159">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="687" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1589214843159" />
+  </component>
+</project>

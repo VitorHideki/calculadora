@@ -1,0 +1,26 @@
+#resultado {
+    text-align: right;
+    height: 40px;
+    margin: 10px 20px;
+    font-size: 30px;
+    background-color: rgba(0,0,0,.75);
+    overflow: hidden;
+    color: white;
+    padding-bottom: 25px;
+}
+
+#historico {
+    text-align: right;
+    height: 40px;
+    margin: 0 20px;
+    font-size: 15px;
+    background-color: rgba(0,0,0,.75);
+    overflow: hidden;
+    color: white;
+}
+
+@media screen and (max-height: 400px){
+    #historico{
+        display: none;
+    }
+}

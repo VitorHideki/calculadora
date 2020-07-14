@@ -1,0 +1,53 @@
+#teclado {
+    height: 320px;
+    width: 235px;
+    border-radius: 50%;
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    grid-template-rows: 48px 48px 48px 48px 48px;
+    padding-left: 30px;
+    grid-gap:10px;
+}
+
+
+.operacao, .digito, .vazio {
+    width: 50px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 25px;
+    size: 40px  ;
+    border-radius: 50%;
+    border: none;
+}
+
+.operacao.vazio{
+    grid-column: 3;
+}
+
+.operacao {
+    background-color: #fa8231;
+    color: #FFF;
+}
+
+
+.digito, .vazio {
+    background-color: white;
+}
+
+.digito, operacao {
+    cursor: pointer;
+}
+
+.operacao:active, .digito:active {
+    font-size: 14px;
+}
+
+.operator:focus, .number:focus, .limpar:focus {
+    outline: 0;
+}
+
+@media screen and (max-height: 350px){
+    #container{
+        display: none;
+    }
+}
